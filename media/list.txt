@@ -1,0 +1,2 @@
+-- background pictures
+|_ main pages (index, about, blog, contact)
