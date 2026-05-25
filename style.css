@@ -1,16 +1,16 @@
 @font-face {
     font-family: Crafty Girls;
-    src: url("/st/CraftyGirls-Regular.ttf") format("truetype");
+    src: url("/site/fonts/CraftyGirls-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: PT Mono;
-    src: url("/st/PTMono-Regular.ttf") format("truetype");
+    src: url("/site/fonts/PTMono-Regular.ttf") format("truetype");
 }
 
 body {
   background: floralwhite;
-  background: url("/st/04.jpg") fixed no-repeat;
+  background: url("/site/pics/04.jpg") fixed no-repeat;
   background-size: cover;
   padding: 0;
   margin: 0;
